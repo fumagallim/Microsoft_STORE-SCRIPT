@@ -1,4 +1,5 @@
-# Microsoft Store - SCRIPT ![alt text](https://www.windowsblogitalia.com/wp-content/uploads/2021/07/Microsoft-Store-per-Windows-11-Nuova-icona.png)
+# Microsoft Store - SCRIPT <img align="center" width="300" height="300" src="https://www.windowsblogitalia.com/wp-content/uploads/2021/07/Microsoft-Store-per-Windows-11-Nuova-icona.png">
+
 Script per l'installazione manuale del Microsoft Store su ambiente Windows 10 LTSC 2019/2021
 
 - Lo script installa il pacchetto appx per tutti i profili utenti esistenti (Installazione di tipo WIDE).
