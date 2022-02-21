@@ -8,3 +8,5 @@ Script per l'installazione manuale del Portale Aziendale su ambiente Windows 10 
 - Sono necessari i privilegi di amministratore.
 
 Sorgenti file e dipendenze da: store.rg-adguard.net
+
+All trademarks are trademarks of their respective owners (Logos,Names,Sources). (Microsoft Corporation)
